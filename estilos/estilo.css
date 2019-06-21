@@ -1,0 +1,36 @@
+body{
+	text-align: center;
+}
+
+
+
+.formulario{
+	margin-top: 50px;
+	padding: 15px;
+	background: #FF5733;
+	opacity: 0.7;
+	font-weight: bold;
+	border-radius: 10px;
+	border:solid 1px #020202;
+	box-shadow: 0px 10px 10px 0px;
+}
+
+
+
+#codigo, #direccion, #propietario, #valor{
+  margin-right: 5%;
+}
+
+
+.table{
+    border-radius: 10px;
+	box-shadow: 0px 10px 10px 0px;
+}
+
+.entrada:focus { 
+  background-color: #9BF6B7 !important;
+}
+
+.ancla{
+	cursor: pointer;
+}
